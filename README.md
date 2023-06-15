@@ -12,3 +12,11 @@ Python projects > Proyectos realizados a lo largo del curso Big Data. Se irán a
 ## 13.06.23 >
 
  Sara - 10 - Pandas > DataFrame
+ 
+## 14.06.23 >
+
+ Sara - 06 - Bucles
+ 
+ Sara - SpaceX - 4 -EDA with Data Visualization
+ 
+ Sara_Prophet_Predecir_el_valor_del_oro
