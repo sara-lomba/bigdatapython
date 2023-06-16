@@ -26,3 +26,7 @@ Python projects > Proyectos realizados a lo largo del curso Big Data. Se irán a
  Sara - 05 - Funciones
  
  Sara - 09 - Pandas > Series
+
+## 16.06.23 >
+ 
+ Sara - Ejercicios Repaso Python
