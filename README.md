@@ -1,4 +1,4 @@
-# bigdatapython
+# big_data_python
 Python projects > Proyectos realizados a lo largo del curso Big Data. Se irán añadiendo carpetas de los diferentes días que contengan los ejercicios que se han realizado ese día
 
 ## 12.06.23 >
