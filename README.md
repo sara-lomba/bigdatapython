@@ -20,3 +20,9 @@ Python projects > Proyectos realizados a lo largo del curso Big Data. Se irán a
  Sara - SpaceX - 4 -EDA with Data Visualization
  
  Sara_Prophet_Predecir_el_valor_del_oro
+
+## 15.06.23 >
+ 
+ Sara - 05 - Funciones
+ 
+ Sara - 09 - Pandas > Series
